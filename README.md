@@ -64,6 +64,5 @@ Kernel:
 
 #### Other files
 
-- Final Report
 - Presentation
 - Column_names: the list of variables in the original dataframe before cleaning and preprocessing
